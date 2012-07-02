@@ -11,7 +11,7 @@
   function createFrame () {
   
     chrome.tabs.getSelected(null,function(tab) {
-      console.log(tab);
+      //console.log(tab);
 
       var query = 'url='+escape(tab.url)
         , img = $('img')[0]
