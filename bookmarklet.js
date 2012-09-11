@@ -4,7 +4,7 @@
       , frame = 'gklst-frame'
       , loading = 'gklst-loading'
       , style = 'gklst-style'
-      , host = 'http://geekli.st/'
+      , host = 'https://geekli.st/'
       , relink = W.context && W.context.link ? context.link.slug : false
       , $
 
