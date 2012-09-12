@@ -11,6 +11,6 @@ BECAUSE! It's cool to use Chrome extensions instead of bookmarklets because they
 
 ## Who?
 
-[Stefan Hoth](http://stefanhoth.de) is a freelance developer for everything web and mobile (but he hate's pushing div's around for the perfect layout). He lives in Berlin, Germany, is member of the oldest and greatest [hacker space c-base space station](http://c-base.org) and is always interesting to learn new stuff and meet interesting people. Also he's the [German Ambassador for Geeklist](http://geekli.st/stefanhoth) and you can use his [invite code to get into the private beta](http://geekli.st/stefanhoth/invite/992C6CFAE8).
+[Stefan Hoth](http://stefanhoth.de) is a freelance developer for everything web and mobile (but he hate's pushing div's around for the perfect layout). He lives in Berlin, Germany, is member of the oldest and greatest [hacker space c-base space station](http://c-base.org) and is always interesting to learn new stuff and meet interesting people. Also he's the [German Ambassador for Geeklist](http://geekli.st/stefanhoth).
 
 You can reach him trough his [GitHub profile](https://github.com/stefanhoth).

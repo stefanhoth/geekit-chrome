@@ -15,5 +15,5 @@
 	"name": "GeekIt (tm) for Chrome",
 	"permissions": [ "http://*/*", "https://*/*", "tabs" ],
 	"update_url": "http://clients2.google.com/service/update2/crx",
-	"version": "0.5.0"
+	"version": "0.6.0"
 }
